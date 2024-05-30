@@ -1,0 +1,4 @@
+behave -f --no-capture allure_behave.formatter:AllureFormatter -o reports ./features
+allure generate .\reports\ --clean
+allure open
+behave --no-capture .\features\appointment_process.feature

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 25 17:33:20 IST 2024","Sat May 25 17:33:48 IST 2024","27217","","","","","","Booking an appointment for checkup with multiple parameters -- @1.2 ",""
+"passed","Sat May 25 17:33:48 IST 2024","Sat May 25 17:34:27 IST 2024","39396","","","","","","Booking an appointment for checkup with multiple parameters -- @1.3 ",""
+"passed","Sat May 25 17:32:52 IST 2024","Sat May 25 17:33:20 IST 2024","28011","","","","","","Booking an appointment for checkup with multiple parameters -- @1.1 ",""
